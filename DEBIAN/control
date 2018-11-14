@@ -1,0 +1,12 @@
+Package: io.moonstar.sillytheme
+Name: Silly Theme
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Just a silly theme for Anemone.
+Homepage: moonstar-x.github.io
+Depends: com.anemonetheming.anemone
+Section: Themes
+Author: moonstar <christianitoch@me.com>
+Maintainer: moonstar <christianitoch@me.com>
+Icon: 'file:///Libary/Themes/Silly\ Apps.theme/CydiaIcon.png'
+Depiction: https://moonstar-x.github.io/cydia-repo/depictions/?p=io.moonstar.sillytheme
